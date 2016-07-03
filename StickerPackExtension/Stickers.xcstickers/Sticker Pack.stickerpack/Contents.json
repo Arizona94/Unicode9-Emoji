@@ -1,9 +1,269 @@
 {
+  "stickers" : [
+    {
+      "filename" : "Emoji-74.sticker"
+    },
+    {
+      "filename" : "Emoji-77.sticker"
+    },
+    {
+      "filename" : "Emoji-80.sticker"
+    },
+    {
+      "filename" : "Emoji-18.sticker"
+    },
+    {
+      "filename" : "Emoji-40.sticker"
+    },
+    {
+      "filename" : "Emoji-78.sticker"
+    },
+    {
+      "filename" : "Emoji-3.sticker"
+    },
+    {
+      "filename" : "Emoji-1.sticker"
+    },
+    {
+      "filename" : "Emoji-2.sticker"
+    },
+    {
+      "filename" : "Emoji-4.sticker"
+    },
+    {
+      "filename" : "Emoji-5.sticker"
+    },
+    {
+      "filename" : "Emoji-6.sticker"
+    },
+    {
+      "filename" : "Emoji-7.sticker"
+    },
+    {
+      "filename" : "Emoji-8.sticker"
+    },
+    {
+      "filename" : "Emoji-9.sticker"
+    },
+    {
+      "filename" : "Emoji-10.sticker"
+    },
+    {
+      "filename" : "Emoji-11.sticker"
+    },
+    {
+      "filename" : "Emoji-12.sticker"
+    },
+    {
+      "filename" : "Emoji-13.sticker"
+    },
+    {
+      "filename" : "Emoji-14.sticker"
+    },
+    {
+      "filename" : "Emoji-15.sticker"
+    },
+    {
+      "filename" : "Emoji-16.sticker"
+    },
+    {
+      "filename" : "Emoji-17.sticker"
+    },
+    {
+      "filename" : "Emoji-19.sticker"
+    },
+    {
+      "filename" : "Emoji-20.sticker"
+    },
+    {
+      "filename" : "Emoji-21.sticker"
+    },
+    {
+      "filename" : "Emoji-22.sticker"
+    },
+    {
+      "filename" : "Emoji-23.sticker"
+    },
+    {
+      "filename" : "Emoji-24.sticker"
+    },
+    {
+      "filename" : "Emoji-25.sticker"
+    },
+    {
+      "filename" : "Emoji-26.sticker"
+    },
+    {
+      "filename" : "Emoji-27.sticker"
+    },
+    {
+      "filename" : "Emoji-28.sticker"
+    },
+    {
+      "filename" : "Emoji-29.sticker"
+    },
+    {
+      "filename" : "Emoji-30.sticker"
+    },
+    {
+      "filename" : "Emoji-31.sticker"
+    },
+    {
+      "filename" : "Emoji-32.sticker"
+    },
+    {
+      "filename" : "Emoji-33.sticker"
+    },
+    {
+      "filename" : "Emoji-34.sticker"
+    },
+    {
+      "filename" : "Emoji-35.sticker"
+    },
+    {
+      "filename" : "Emoji-36.sticker"
+    },
+    {
+      "filename" : "Emoji-37.sticker"
+    },
+    {
+      "filename" : "Emoji-38.sticker"
+    },
+    {
+      "filename" : "Emoji-39.sticker"
+    },
+    {
+      "filename" : "Emoji-41.sticker"
+    },
+    {
+      "filename" : "Emoji-42.sticker"
+    },
+    {
+      "filename" : "Emoji-43.sticker"
+    },
+    {
+      "filename" : "Emoji-44.sticker"
+    },
+    {
+      "filename" : "Emoji-45.sticker"
+    },
+    {
+      "filename" : "Emoji-46.sticker"
+    },
+    {
+      "filename" : "Emoji-47.sticker"
+    },
+    {
+      "filename" : "Emoji-48.sticker"
+    },
+    {
+      "filename" : "Emoji-49.sticker"
+    },
+    {
+      "filename" : "Emoji-50.sticker"
+    },
+    {
+      "filename" : "Emoji-51.sticker"
+    },
+    {
+      "filename" : "Emoji-52.sticker"
+    },
+    {
+      "filename" : "Emoji-53.sticker"
+    },
+    {
+      "filename" : "Emoji-54.sticker"
+    },
+    {
+      "filename" : "Emoji-55.sticker"
+    },
+    {
+      "filename" : "Emoji-56.sticker"
+    },
+    {
+      "filename" : "Emoji-57.sticker"
+    },
+    {
+      "filename" : "Emoji-58.sticker"
+    },
+    {
+      "filename" : "Emoji-59.sticker"
+    },
+    {
+      "filename" : "Emoji-60.sticker"
+    },
+    {
+      "filename" : "Emoji-61.sticker"
+    },
+    {
+      "filename" : "Emoji-62.sticker"
+    },
+    {
+      "filename" : "Emoji-63.sticker"
+    },
+    {
+      "filename" : "Emoji-64.sticker"
+    },
+    {
+      "filename" : "Emoji-65.sticker"
+    },
+    {
+      "filename" : "Emoji-66.sticker"
+    },
+    {
+      "filename" : "Emoji-67.sticker"
+    },
+    {
+      "filename" : "Emoji-68.sticker"
+    },
+    {
+      "filename" : "Emoji-69.sticker"
+    },
+    {
+      "filename" : "Emoji-70.sticker"
+    },
+    {
+      "filename" : "Emoji-71.sticker"
+    },
+    {
+      "filename" : "Emoji-72.sticker"
+    },
+    {
+      "filename" : "Emoji-73.sticker"
+    },
+    {
+      "filename" : "Emoji-75.sticker"
+    },
+    {
+      "filename" : "Emoji-76.sticker"
+    },
+    {
+      "filename" : "Emoji-79.sticker"
+    },
+    {
+      "filename" : "Emoji-81.sticker"
+    },
+    {
+      "filename" : "Emoji-82.sticker"
+    },
+    {
+      "filename" : "Emoji-83.sticker"
+    },
+    {
+      "filename" : "Emoji-84.sticker"
+    },
+    {
+      "filename" : "Emoji-85.sticker"
+    },
+    {
+      "filename" : "Emoji-86.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
